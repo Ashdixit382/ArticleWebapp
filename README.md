@@ -2,33 +2,39 @@
 
 ## Description
 
-[Webapp for writing your Articles of your choice]
+Webapp for writing your Articles of your choice
 
 
 ## Screenshots
 
-![Project Screenshot 1](./screenshots/screenshot1.png)
-![Project Screenshot 2](./screenshots/screenshot2.png)
+![SIGN UP](./src/images/Signup.png)
+![LOGIN](./src/images/login.png)
+![ADD POST](./src/images/Addpost.png)
+![ALL POST](./src/images/Allpost.png)
 
 ## Built With
 
-[Insert any programming languages, frameworks, or tools that you used to build your project here.]
+JAVASCRIPT, REACT, APPWRITE , and VSCODE 
 
 ## Prerequisites
 
 Before using this project, you will need to install the following dependencies:
 
-- [Dependency 1](#)
-- [Dependency 2](#)
-- [Dependency 3](#)
+- [@reduxjs/toolkit](#)
+- [@tinymce/tinymce-react](#)
+- [appwrite](#)
+- [html-react-parser](#)
+- [react-hook-form](#)
+- [react-redux](#)
+- [react-router-dom](#)
 
 ## Installation
 
 To install this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/project-name.git`
+1. Clone the repository: `https://github.com/Ashdixit382/ArticleWebapp.git`
 2. Install dependencies: `npm install`
-3. Run the project: `npm start`
+3. Run the project: `npm run dev`
 
 ## Usage
 
@@ -36,7 +42,7 @@ To use this project, follow these steps:
 
 1. Open the project in your preferred code editor.
 2. Modify the code to fit your needs.
-3. Run the project: `npm start`
+3. Run the project: `npm dev start`
 
 ## Contributing
 
